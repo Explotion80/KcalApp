@@ -1,0 +1,11 @@
+configurationset:
+  - configuration:
+      name: postgresql_config
+      uri: uri
+  - configuration:
+      name: edamam
+      username: edamam1
+      app_id: app_id
+      app_key: app_key
+      authorization: Bearer
+          kogake....
